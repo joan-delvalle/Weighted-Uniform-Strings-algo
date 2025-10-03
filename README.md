@@ -1,1 +1,1 @@
-# Weighted-Uniform-Strings-algo
+# Weighted-Uniform-Strings-algo The function computes the weights of all uniform substrings (letters repeated consecutively) and stores them. For each query, it checks if the weight exists and returns "Yes" or "No" accordingly.
